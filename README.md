@@ -1,1 +1,1 @@
-# small-talk-angular-ssr
+# angular-service-worker-and-pwa
